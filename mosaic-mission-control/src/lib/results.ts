@@ -1,4 +1,4 @@
-```typescript
+
 import type { MissionSession } from './types';
 
 /**
