@@ -243,4 +243,4 @@ export async function sendResultToSheet(
   // This confirms only that the request was attempted, not that a row was saved.
   return { configured: true as const };
 }
-```
+
